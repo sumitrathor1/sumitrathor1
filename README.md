@@ -2,4 +2,4 @@
 
 ## 🌐 _Connect with me:_
 <a href="https://www.linkedin.com/in/sumitrathor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
-<a href="https://www.sumitrathor.rd.gd"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://sumitrathor.rf.gd/" targert="_main"><img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
