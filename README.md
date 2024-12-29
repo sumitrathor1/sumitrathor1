@@ -44,5 +44,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitrathor1&theme=dark&hide_border=false" height="140px" style="margin: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitrathor1&theme=dark&hide_border=false" height="140px" style='margin: 10px; border: 2px solid white;'>
 </div>
-
-## Repositories
