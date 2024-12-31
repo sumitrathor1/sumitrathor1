@@ -43,4 +43,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitrathor1&theme=dark&hide_border=false" height="140px" style="margin: 10px; border: 2px solid white;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitrathor1&theme=dark&hide_border=false" height="140px" style="margin: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitrathor1&theme=dark&hide_border=false" height="140px" style='margin: 10px; border: 2px solid white;'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitrathor1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="140px" style="margin: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitrathor1&theme=dark" height="140px" style='margin: 10px; border: 2px solid white;'>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumitrathor1&theme=dark" height="140px" style='margin: 10px; border: 2px solid white;'>
+
 </div>
