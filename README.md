@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Java-DE1D2D?logo=java&logoColor=white&style=flat">&nbsp;
 
+
 #### &nbsp;&nbsp;&nbsp;&nbsp; 🧰Tools and Platforms: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-VS%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">
