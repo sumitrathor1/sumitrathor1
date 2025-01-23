@@ -10,7 +10,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/u/SumitRathor/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=ffa116" alt="LeetCode Profile"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.geeksforgeeks.org/user/sumitrathor/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-%230F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"></a>
 
-
 ## _🛠 Tech Stack:_
 #### &nbsp;&nbsp;&nbsp;&nbsp;📝WebTech: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
