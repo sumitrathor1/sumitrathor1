@@ -1,25 +1,55 @@
 <div align="center">
 
-# ⚡ Sumit Rathor
-### Full Stack Developer · IoT & Hardware Enthusiast · Open Source Contributor
+<!-- Cosmic Header Banner (Deep Space & Stars Theme) -->
+<img src="assets/space-banner.svg" alt="Sumit Rathor - Cosmic Header" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sumitrathor.rf.gd-0A84FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sumitrathor.rf.gd/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fsumitrathor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitrathor)
-[![GitHub](https://img.shields.io/badge/GitHub-sumitrathor1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumitrathor1)
-[![Email](https://img.shields.io/badge/Email-sumitrathor142272%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitrathor142272@gmail.com)
+<br/><br/>
 
-<br/>
-
-<img src="assets/illustration.png" alt="Sumit Rathor - Developer Workspace" width="380px" />
-
-<p align="center">
-  <em>Computer Science undergraduate at MITS Gwalior and Research Intern at DRDO–CFEES.<br/>
-  Passionate about engineering reliable full-stack web platforms, exploring local AI/RAG architectures, and building IoT systems bridging software with the physical world.</em>
-</p>
+<!-- Cosmic Quick Links Bar -->
+<a href="https://sumitrathor.rf.gd/"><img src="https://img.shields.io/badge/Portfolio-sumitrathor.rf.gd-0A84FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/sumitrathor"><img src="https://img.shields.io/badge/LinkedIn-in%2Fsumitrathor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://github.com/sumitrathor1"><img src="https://img.shields.io/badge/GitHub-sumitrathor1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+<a href="mailto:sumitrathor142272@gmail.com"><img src="https://img.shields.io/badge/Email-sumitrathor142272%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<br/>
+
+<!-- Hero Section: Exactly modeled after portfolio website (sumitrathor.rf.gd) -->
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <a href="https://sumitrathor.rf.gd">
+        <img src="https://img.shields.io/badge/%E2%97%8F-Full%20Stack%20Developer%20%C2%B7%20Software%20Engineer-0b132b?style=for-the-badge&color=0e2a47&labelColor=020617&logoColor=38bdf8" alt="Role" />
+      </a>
+      <br/><br/>
+      <h1>🌌 Hi, I’m Sumit Rathor</h1>
+      <p><b>Full Stack Developer building web applications, AI-powered tools, and practical solutions with modern web technologies.</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/%E2%9C%A7-Full%20Stack%20Development-0b1536?style=flat-square&color=38bdf8" alt="Full Stack" />
+        <img src="https://img.shields.io/badge/%E2%9C%A7-AI%20%26%20Automation-1b113b?style=flat-square&color=a855f7" alt="AI & Automation" />
+        <img src="https://img.shields.io/badge/%E2%9C%A7-Backend%20Systems-0f243a?style=flat-square&color=00d2ff" alt="Backend Systems" />
+      </p>
+      <p>
+        <a href="https://sumitrathor.rf.gd"><img src="https://img.shields.io/badge/Live%20Portfolio-0a58ca?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" /></a>
+        <a href="https://github.com/sumitrathor1?tab=repositories"><img src="https://img.shields.io/badge/View%20Projects-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" /></a>
+        <a href="mailto:sumitrathor142272@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-0f172a?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Me" /></a>
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/sumitrathor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://github.com/sumitrathor1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+        <a href="mailto:sumitrathor142272@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      </p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="assets/hero-image.png" alt="Sumit Rathor 3D Developer Portrait" width="310px" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" />
+</p>
 
 ## 👨‍💻 About Me
 
@@ -29,7 +59,9 @@
 - 👥 **Leadership & Community:** **President** of the **Innovation & DIY Club** at MITS Gwalior; led overall event management as **Event Coordinator** for the **Techfest IIT Bombay Zonal Workshop**.
 - 🌐 **Open Source:** Passionate open-source maintainer; served as **Project Admin** in **GSSoC'25** and **ECWoC'26** (ranked in the Top 20 Project Admins).
 
----
+<p align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" />
+</p>
 
 ## 🚀 What I Work On
 
@@ -56,7 +88,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" />
+</p>
 
 ## 💡 Featured Projects
 
@@ -107,7 +141,9 @@
 - **Highlights:** Instant lookup cache preventing duplicate records, clean redirect routing, responsive one-page UI, one-click copy, and fully automated FTP CI/CD pipeline.
 - **Links:** [GitHub Repository](https://github.com/sumitrathor1/bitBrief) · [Live Demonstration](https://sumitrathor.rf.gd/bitBrief/)
 
----
+<p align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -151,7 +187,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" />
+</p>
 
 ## 💻 Competitive Programming & Problem Solving
 
@@ -169,7 +207,9 @@ I regularly practice algorithmic problem solving to sharpen my understanding of 
 - **Core Topics:** Dynamic Programming, Graph Theory, Trees, Arrays & Strings, and Object-Oriented Design.
 - **Problem Solving Record:** 300+ problems solved across competitive coding platforms.
 
----
+<p align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" />
+</p>
 
 ## 🏆 Experience & Technical Involvement
 
@@ -192,7 +232,9 @@ I regularly practice algorithmic problem solving to sharpen my understanding of 
 - ☁️ **Google Cloud Arcade Legend** *(Phase 1, 2025)*
   - Completed hands-on cloud labs covering computing, storage, and infrastructure milestones.
 
----
+<p align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" />
+</p>
 
 ## 📚 What I'm Currently Exploring
 
@@ -201,24 +243,28 @@ I regularly practice algorithmic problem solving to sharpen my understanding of 
 - 🏗️ **Scalable System Design:** Studying caching mechanisms, relational schema optimization, and microservice communication.
 - 📡 **Embedded IoT Protocols:** Exploring lightweight wireless communication and telemetry streaming for autonomous hardware.
 
----
+<p align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" />
+</p>
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sumitrathor1&theme=tokyonight&hide_border=true" alt="Sumit's GitHub Streak" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitrathor1&theme=github_dark" alt="Sumit's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=sumitrathor1&theme=tokyonight&background=020617&border=1e1b4b&stroke=38bdf8&ring=a855f7&fire=38bdf8&currStreakNum=38bdf8&sideNums=e2e8f0&currStreakLabel=a855f7&sideLabels=94a3b8&dates=64748b" alt="Sumit's GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumitrathor1&theme=tokyonight" alt="Sumit's GitHub Stats" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitrathor1&theme=github_dark" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitrathor1&theme=github_dark" alt="Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumitrathor1&theme=tokyonight" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumitrathor1&theme=tokyonight" alt="Profile Details" width="49%" />
 </p>
 
----
+<p align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" />
+</p>
 
 ## 📬 Let's Connect
 
-I am always interested in discussing new technology, collaborating on impactful open-source projects, and exploring full-ṇstack or software engineering opportunities.
+I am always interested in discussing new technology, collaborating on impactful open-source projects, and exploring full-stack or software engineering opportunities.
 
 <div align="center">
 
@@ -229,6 +275,6 @@ I am always interested in discussing new technology, collaborating on impactful 
 
 <br/>
 
-<sub><i>Designed with precision for recruiters, collaborators, and builders.</i></sub>
+<sub><i>🌌 Designed with cosmic precision for recruiters, collaborators, and builders.</i></sub>
 
 </div>
