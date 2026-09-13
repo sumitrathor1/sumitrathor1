@@ -144,18 +144,14 @@
   <img src="assets/cosmic-divider.svg" width="100%" />
 </p>
 
-## 💻 Competitive Programming & Problem Solving
+### 💻 Competitive Programming & Problem Solving:
 
-I regularly practice algorithmic problem solving to sharpen my understanding of Data Structures, Algorithms, and computational complexity.
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-SumitRathor-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SumitRathor/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-sumitrathor-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sumitrathor)
-[![HackerRank](https://img.shields.io/badge/HackerRank-sumitrathor-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/sumitrathor)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-sumitrathor-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/sumitrathor/)
-
-</div>
+<p align="left">
+  <a href="https://leetcode.com/u/SumitRathor/" target="_blank" rel="noreferrer"><img src="assets/leetcode.svg" alt="LeetCode" width="42" height="42"/></a> &nbsp;
+  <a href="https://www.codechef.com/users/sumitrathor" target="_blank" rel="noreferrer"><img src="assets/codechef.svg" alt="CodeChef" width="42" height="42"/></a> &nbsp;
+  <a href="https://www.hackerrank.com/profile/sumitrathor" target="_blank" rel="noreferrer"><img src="assets/hackerrank.svg" alt="HackerRank" width="42" height="42"/></a> &nbsp;
+  <a href="https://www.geeksforgeeks.org/user/sumitrathor/" target="_blank" rel="noreferrer"><img src="assets/geeksforgeeks.svg" alt="GeeksforGeeks" width="56" height="42"/></a>
+</p>
 
 - **Core Focus:** Dynamic Programming, Graph Theory, Trees, Arrays & Strings, and Object-Oriented Design.
 - **Problem Solving Record:** 300+ problems solved across competitive coding platforms.
