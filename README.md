@@ -1,24 +1,16 @@
 <div align="center">
 
-<!-- Cosmic Header Banner (Deep Space & Stars Theme) -->
+<!-- Cosmic Header Banner (Deep Space Theme) -->
 <img src="assets/space-banner.svg" alt="Sumit Rathor - Cosmic Header" width="100%" />
-
-<br/><br/>
-
-<!-- Cosmic Quick Links Bar -->
-<a href="https://sumitrathor.rf.gd/"><img src="https://img.shields.io/badge/Portfolio-sumitrathor.rf.gd-0A84FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/sumitrathor"><img src="https://img.shields.io/badge/LinkedIn-in%2Fsumitrathor-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://github.com/sumitrathor1"><img src="https://img.shields.io/badge/GitHub-sumitrathor1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-<a href="mailto:sumitrathor142272@gmail.com"><img src="https://img.shields.io/badge/Email-sumitrathor142272%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 <br/>
 
-<!-- Hero Section: Exactly modeled after portfolio website (sumitrathor.rf.gd) -->
+<!-- Hero Section: Modeled after portfolio website (sumitrathor.rf.gd) -->
 <table>
   <tr>
-    <td width="58%" valign="middle">
+    <td width="60%" valign="middle">
       <a href="https://sumitrathor.rf.gd">
         <img src="https://img.shields.io/badge/%E2%97%8F-Full%20Stack%20Developer%20%C2%B7%20Software%20Engineer-0b132b?style=for-the-badge&color=0e2a47&labelColor=020617&logoColor=38bdf8" alt="Role" />
       </a>
@@ -26,23 +18,14 @@
       <h1>🌌 Hi, I’m Sumit Rathor</h1>
       <p><b>Full Stack Developer building web applications, AI-powered tools, and practical solutions with modern web technologies.</b></p>
       <p>
-        <img src="https://img.shields.io/badge/%E2%9C%A7-Full%20Stack%20Development-0b1536?style=flat-square&color=38bdf8" alt="Full Stack" />
-        <img src="https://img.shields.io/badge/%E2%9C%A7-AI%20%26%20Automation-1b113b?style=flat-square&color=a855f7" alt="AI & Automation" />
-        <img src="https://img.shields.io/badge/%E2%9C%A7-Backend%20Systems-0f243a?style=flat-square&color=00d2ff" alt="Backend Systems" />
-      </p>
-      <p>
         <a href="https://sumitrathor.rf.gd"><img src="https://img.shields.io/badge/Live%20Portfolio-0a58ca?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" /></a>
         <a href="https://github.com/sumitrathor1?tab=repositories"><img src="https://img.shields.io/badge/View%20Projects-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" /></a>
-        <a href="mailto:sumitrathor142272@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-0f172a?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Me" /></a>
-      </p>
-      <p>
-        <a href="https://www.linkedin.com/in/sumitrathor"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="https://github.com/sumitrathor1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-        <a href="mailto:sumitrathor142272@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+        <a href="https://www.linkedin.com/in/sumitrathor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:sumitrathor142272@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
       </p>
     </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="assets/hero-image.png" alt="Sumit Rathor 3D Developer Portrait" width="310px" />
+    <td width="40%" align="center" valign="middle">
+      <img src="assets/hero-image.png" alt="Sumit Rathor 3D Developer Portrait" width="290px" />
     </td>
   </tr>
 </table>
@@ -53,11 +36,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Academic Journey:** Pursuing **B.Tech in Computer Science & Design** at **Madhav Institute of Technology and Science (MITS), Gwalior** (2024–2027); previously completed **Diploma in Computer Science & Engineering** from Dr. B.R. Ambedkar Polytechnic College (2021–2024).
-- 🔬 **Research & Practice:** **Research Intern at DRDO – CFEES (Delhi)**, developing an offline Retrieval-Augmented Generation (RAG) system for technical document retrieval with local LLMs.
-- 🛠️ **Engineering Mindset:** I build practical solutions from the ground up—ranging from database-backed student utilities and real-time audio players to microcontrollers and autonomous camera vehicles.
-- 👥 **Leadership & Community:** **President** of the **Innovation & DIY Club** at MITS Gwalior; led overall event management as **Event Coordinator** for the **Techfest IIT Bombay Zonal Workshop**.
-- 🌐 **Open Source:** Passionate open-source maintainer; served as **Project Admin** in **GSSoC'25** and **ECWoC'26** (ranked in the Top 20 Project Admins).
+- 🎓 **Education:** Pursuing **B.Tech in Computer Science & Design** at **Madhav Institute of Technology & Science (MITS), Gwalior** (2024–2027); previously completed **Diploma in Computer Science & Engineering** from Dr. B.R. Ambedkar Polytechnic College (2021–2024).
+- 🛠️ **Builder Ethos:** I enjoy building practical products from the ground up—taking concepts from architecture to live deployment across web systems, local AI models, and IoT hardware.
+- 🎯 **Engineering Philosophy:** Focused on writing clean, scalable code, designing intuitive user experiences, and exploring emerging technologies through hands-on development.
 
 <p align="center">
   <img src="assets/cosmic-divider.svg" width="100%" />
@@ -69,7 +50,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 Full-Stack Web Applications</h3>
-      <p>Building responsive, database-backed web platforms, APIs, and student portals using <b>PHP, CodeIgniter 4, MySQL, JavaScript (ES6+)</b>, and <b>Bootstrap 5</b>, with clean state handling and RESTful endpoints.</p>
+      <p>Building responsive, database-driven web platforms, APIs, and student portals using <b>PHP, CodeIgniter 4, MySQL, JavaScript (ES6+)</b>, and <b>Bootstrap 5</b>, with clean state handling and RESTful endpoints.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 AI & Intelligent Systems</h3>
@@ -132,14 +113,6 @@
 - **Tech Stack:** `PHP 8.x` `MySQL` `JavaScript` `Bootstrap` `GitHub Actions`
 - **Highlights:** Timed topic-wise quizzes (Python, Statistics, Machine Learning), immediate score calculation with detailed solution explanations, student attempt history, and an administrative question-bank manager with CI/CD deployment.
 - **Links:** [GitHub Repository](https://github.com/sumitrathor1/Data-Science-Quiz) · [Live Demonstration](https://sumitrathor.rf.gd/Data-Science-Quiz/)
-
----
-
-### 🔗 [BitBrief – High-Efficiency Database-Backed URL Shortener](https://github.com/sumitrathor1/bitBrief)
-> *A fast, duplicate-resistant URL shortening service with automated GitHub Actions FTP deployment.*
-- **Tech Stack:** `PHP` `MySQL` `Bootstrap 5` `GitHub Actions`
-- **Highlights:** Instant lookup cache preventing duplicate records, clean redirect routing, responsive one-page UI, one-click copy, and fully automated FTP CI/CD pipeline.
-- **Links:** [GitHub Repository](https://github.com/sumitrathor1/bitBrief) · [Live Demonstration](https://sumitrathor.rf.gd/bitBrief/)
 
 <p align="center">
   <img src="assets/cosmic-divider.svg" width="100%" />
@@ -204,14 +177,14 @@ I regularly practice algorithmic problem solving to sharpen my understanding of 
 
 </div>
 
-- **Core Topics:** Dynamic Programming, Graph Theory, Trees, Arrays & Strings, and Object-Oriented Design.
+- **Core Focus:** Dynamic Programming, Graph Theory, Trees, Arrays & Strings, and Object-Oriented Design.
 - **Problem Solving Record:** 300+ problems solved across competitive coding platforms.
 
 <p align="center">
   <img src="assets/cosmic-divider.svg" width="100%" />
 </p>
 
-## 🏆 Experience & Technical Involvement
+## 🏆 Experience & Technical Leadership
 
 - 🔬 **Research Intern** · **DRDO – CFEES (Delhi)** *(June 2026 – Present)*
   - Developing an enterprise local Retrieval-Augmented Generation (RAG) assistant for querying and retrieving information from classified technical documents.
