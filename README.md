@@ -1,12 +1,3 @@
-<div align="center">
-
-<!-- Cosmic Header Banner (Deep Space Theme) -->
-<img src="assets/space-banner.svg" alt="Sumit Rathor - Cosmic Header" width="100%" />
-
-</div>
-
-<br/>
-
 <!-- Hero Section: Modeled after portfolio website (sumitrathor.rf.gd) -->
 <table>
   <tr>
